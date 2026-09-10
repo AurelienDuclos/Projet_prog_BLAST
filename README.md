@@ -11,7 +11,7 @@
 
 ## Exécution
 Si vous souhaitez avoir les résultats dans le terminal:
-Sur le terminal: python3 blast1_final.py
+python3 blast1_final.py
 
 Si vous souhaitez avoir les résultats dans un fichier:
 python3 blast1_final.py > resultats.txt
