@@ -120,9 +120,6 @@ deux séquences et leur score.
 def extension(hit, X, requete, reference):
     kmer_req, kmer_ref, pos_req, pos_ref = hit
     
-    kmer_req = kmer_req
-    kmer_ref = kmer_ref
-
     seed_score = calcul_score(kmer_req, kmer_ref)
 
     best_score_droite = seed_score
