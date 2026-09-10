@@ -10,10 +10,10 @@
 
 ## Exécution
 Si vous souhaitez avoir les résultats dans le terminal:
-python3 blast1_final.py
+python3 DUCLOS_code.py
 
 Si vous souhaitez avoir les résultats dans un fichier:
-python3 blast1_final.py > resultats.txt
+python3 DUCLOS_code.py > resultats.txt
 
 ## Résultats
 Vous obtenez d'abord les alignements pour chaque séquence avec leurs positions et le score MSP
